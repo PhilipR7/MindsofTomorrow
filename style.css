@@ -60,11 +60,11 @@
 }
 
 .grande{
-font-size: 3rem;
+font-size: 2rem;
 }
 
 .grande1{
-font-size: 2.25rem;
+font-size: 1.25rem;
 }
 
 .margen2{
@@ -78,7 +78,7 @@ font-size: 2.25rem;
 }
 
 .grande3{
-    font-size: 2rem;
+    font-size: 1.1rem;
     }
 
 .seccion1 {
@@ -133,4 +133,10 @@ font-size: 2.25rem;
 
 .espacio1{
     margin-bottom: 20px;
+}
+
+.tipo10{
+    font-family: "Comfortaa", "sans-serif" ;
+    font-size: 3.5rem;
+    text-align: center;
 }
